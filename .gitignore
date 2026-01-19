@@ -13,6 +13,8 @@ ENV/
 .env
 *.key
 *.pem
+rsa_priv.json
+rsa_pub.json
 
 # IDE
 .vscode/
